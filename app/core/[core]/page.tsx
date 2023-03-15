@@ -32,14 +32,14 @@ const CoursePage = async ({ params }: Props) => {
 			<>
 				<section className='text-gray-600 body-font'>
 					<div className='container px-5 py-8 mx-auto flex flex-wrap md:px-14 flex-col'>
-						<h6 className='text-base text-gray-900 font-medium  mb-2 md:text-base lg:text-base text-center'>
+						<h6 className='text-base  font-medium  mb-2 md:text-base lg:text-base text-center'>
 							Quarter {slug == "q1" ? "I" : slug == "q2" ? "II" : "III"}
 						</h6>
 						<div className='flex flex-col md:flex-row justify-between'>
-							<h2 className='text-lg text-gray-900 font-medium  mb-2 md:text-xl lg:text-2xl '>
+							<h2 className='text-lg  font-medium  mb-2 md:text-xl lg:text-2xl '>
 								{title}
 							</h2>
-							<h3 className='text-lg text-gray-900 font-medium  mb-2 shrink-0 '>
+							<h3 className='text-lg  font-medium  mb-2 shrink-0 '>
 								Duration: {duration}
 							</h3>
 						</div>
@@ -47,7 +47,7 @@ const CoursePage = async ({ params }: Props) => {
 				</section>
 				<section className='text-gray-600 body-font'>
 					<div className='container px-5 py-8 mx-auto flex flex-wrap md:px-14 flex-col'>
-						<h3 className='text-lg text-gray-900 font-medium  mb-2 underline '>
+						<h3 className='text-lg  font-medium  mb-2 underline '>
 							Course Description
 						</h3>
 						<div className='md:w-full '>
@@ -58,7 +58,7 @@ const CoursePage = async ({ params }: Props) => {
 				</section>
 				<section className='text-gray-600 body-font '>
 					<div className='container px-5 py-6 mx-auto flex flex-wrap md:px-14 flex-col'>
-						<h3 className='text-lg text-gray-900 font-medium  mb-2 underline '>
+						<h3 className='text-lg  font-medium  mb-2 underline '>
 							Course Outline
 						</h3>
 						<div className='md:w-full '>

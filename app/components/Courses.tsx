@@ -12,7 +12,7 @@ const Courses = () => {
 		<>
 			<section className='text-gray-600 body-font'>
 				<div className='container px-5 py-5 mx-auto md:px-14'>
-					<h2 className='text-xl text-gray-900 font-medium  mb-10 md:text-3xl lg:text-4xl text-justify md:text-center'>
+					<h2 className='text-xl  font-medium  mb-10 md:text-3xl lg:text-4xl text-justify md:text-center'>
 						Specialized Courses
 					</h2>
 					<div className='md:w-full mb-10 '>
@@ -35,7 +35,7 @@ const Courses = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/courses/ai'>
 											Artificial Intelligence and Deep Learning
 										</Link>
@@ -61,7 +61,7 @@ const Courses = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/courses/iot'>Ambient Computing and IoT</Link>
 									</h1>
 									<p className='leading-relaxed mb-3 text-ellipsis line-clamp-4'>
@@ -85,7 +85,7 @@ const Courses = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/courses/cnc'>Cloud-Native Computing</Link>
 									</h1>
 									<p className='leading-relaxed mb-3 text-ellipsis line-clamp-4'>
@@ -108,7 +108,7 @@ const Courses = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/courses/bcc'>
 											Web 3.0 (Blockchain) and Metaverse
 										</Link>
@@ -137,7 +137,7 @@ const Courses = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/courses/gab'>Genomics and Bioinformatics</Link>
 									</h1>
 									<p className='leading-relaxed mb-3 text-ellipsis line-clamp-4 '>
@@ -166,7 +166,7 @@ const Courses = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/courses/npa'>
 											Network Programmability and Automation
 										</Link>

@@ -29,7 +29,7 @@ const page = () => {
 			{/* Program */}
 			<section className='text-gray-600 body-font'>
 				<div className='container px-5 py-12 mx-auto flex flex-wrap md:px-14 flex-col'>
-					<h2 className='text-xl text-gray-900 font-medium  mb-2 md:text-3xl lg:text-4xl '>
+					<h2 className='text-xl  font-medium  mb-2 md:text-3xl lg:text-4xl '>
 						Program of Studies
 					</h2>
 					<div className='md:w-5/5 '>
@@ -48,7 +48,7 @@ const page = () => {
 			{/* Core */}
 			<section className='text-gray-600 body-font'>
 				<div className='container px-5 py-5 mx-auto md:px-14'>
-					<h2 className='text-xl text-gray-900 font-medium  mb-10 md:text-3xl lg:text-4xl '>
+					<h2 className='text-xl  font-medium  mb-10 md:text-3xl lg:text-4xl '>
 						Core Courses (Common in All Specializations)
 					</h2>
 					<div className='md:w-3/5 mb-10 '>
@@ -71,7 +71,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										CORE
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/core/q1"}>
 											Object-Oriented Programming using TypeScript
 										</Link>
@@ -99,7 +99,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										Core
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/core/q2"}>
 											Developing Planet-Scale Web 2.0 Apps using Next.js 13
 										</Link>
@@ -132,7 +132,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										CORE
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/core/q3"}>
 											Dollar Making Bootcamp - Full-Stack Template
 										</Link>
@@ -154,7 +154,7 @@ const page = () => {
 			{/* Specialization */}
 			<section className='text-gray-600 body-font'>
 				<div className='container px-5 py-5 mx-auto md:px-14'>
-					<h2 className='text-xl text-gray-900 font-medium  mb-10 md:text-3xl lg:text-4xl '>
+					<h2 className='text-xl  font-medium  mb-10 md:text-3xl lg:text-4xl '>
 						Specializations
 					</h2>
 					<div className='md:w-3/5 mb-10 '>
@@ -177,7 +177,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/courses/ai"}>
 											Artificial Intelligence and Deep Learning
 										</Link>
@@ -203,7 +203,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/courses/iot"}>Ambient Computing and IoT</Link>
 									</h1>
 									<p className='leading-relaxed mb-3 text-ellipsis line-clamp-4'>
@@ -227,7 +227,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/courses/cnc"}>Cloud-Native Computing</Link>
 									</h1>
 									<p className='leading-relaxed mb-3 text-ellipsis line-clamp-4'>
@@ -250,7 +250,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/courses/bcc"}>
 											Web 3.0 (Blockchain) and Metaverse
 										</Link>
@@ -279,7 +279,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/courses/gab"}>
 											Genomics and Bioinformatics
 										</Link>
@@ -310,7 +310,7 @@ const page = () => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZATION
 									</h2>
-									<h1 className=' text-base font-medium text-gray-900 mb-3 md:hover:text-rose-600 md:hover:underline'>
+									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
 										<Link href={"/courses/npa"}>
 											Network Programmability and Automation
 										</Link>

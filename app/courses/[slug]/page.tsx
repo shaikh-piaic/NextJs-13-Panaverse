@@ -39,7 +39,7 @@ const Page = async ({ params }: Props) => {
 				{/* Core */}
 				<section className='text-gray-600 body-font'>
 					<div className='container px-5 py-24 mx-auto md:px-14'>
-						<h2 className='text-xl text-gray-900 font-medium  mb-10 md:text-3xl lg:text-4xl text-center'>
+						<h2 className='text-xl  font-medium  mb-10 md:text-3xl lg:text-4xl text-center'>
 							Program Structure
 						</h2>
 						{/* <div className='md:w-full mb-10 '>
@@ -53,10 +53,10 @@ const Page = async ({ params }: Props) => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										CORE
 									</h2>
-									<h1 className=' sm:text-2xl text-xl font-semibold text-gray-900 mb-3'>
+									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
 										QUARTER I
 									</h1>
-									<h2 className=' sm:text-xl text-lg font-medium text-gray-900 mb-3  md:hover:text-rose-600 md:hover:underline'>
+									<h2 className=' sm:text-xl text-lg font-medium  mb-3  md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/core/q1'>
 											Object-Oriented Programming using TypeScript
 										</Link>
@@ -76,10 +76,10 @@ const Page = async ({ params }: Props) => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										CORE
 									</h2>
-									<h1 className=' sm:text-2xl text-xl font-semibold text-gray-900 mb-3'>
+									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
 										QUARTER II
 									</h1>
-									<h2 className=' sm:text-xl text-lg font-medium text-gray-900 mb-3  md:hover:text-rose-600 md:hover:underline'>
+									<h2 className=' sm:text-xl text-lg font-medium  mb-3  md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/core/q2'>
 											Developing Planet-Scale Web 2.0 Apps using Next.js 13
 										</Link>
@@ -104,10 +104,10 @@ const Page = async ({ params }: Props) => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										CORE
 									</h2>
-									<h1 className=' sm:text-2xl text-xl font-semibold text-gray-900 mb-3'>
+									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
 										QUARTER III
 									</h1>
-									<h2 className=' sm:text-xl text-lg font-medium text-gray-900 mb-3  md:hover:text-rose-600 md:hover:underline'>
+									<h2 className=' sm:text-xl text-lg font-medium  mb-3  md:hover:text-rose-600 md:hover:underline'>
 										<Link href='/core/q3'>
 											Dollar Making Bootcamp - Full-Stack Template
 										</Link>
@@ -130,10 +130,10 @@ const Page = async ({ params }: Props) => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZED
 									</h2>
-									<h1 className=' sm:text-2xl text-xl font-semibold text-gray-900 mb-3'>
+									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
 										QUARTER IV
 									</h1>
-									<h2 className=' sm:text-xl text-lg font-medium text-gray-900 mb-3 text-ellipsis line-clamp-1  md:hover:text-rose-600 md:hover:underline'>
+									<h2 className=' sm:text-xl text-lg font-medium  mb-3 text-ellipsis line-clamp-1  md:hover:text-rose-600 md:hover:underline'>
 										<Link href={`/course/${slug}/q4`}>{Q4.title}</Link>
 									</h2>
 									<p className='leading-relaxed mb-3 text-ellipsis line-clamp-4 '>
@@ -146,10 +146,10 @@ const Page = async ({ params }: Props) => {
 									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
 										SPECIALIZED
 									</h2>
-									<h1 className=' sm:text-2xl text-xl font-semibold text-gray-900 mb-3'>
+									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
 										QUARTER V
 									</h1>
-									<h2 className=' sm:text-xl text-lg font-medium text-gray-900 mb-3 text-ellipsis line-clamp-1  md:hover:text-rose-600 md:hover:underline'>
+									<h2 className=' sm:text-xl text-lg font-medium  mb-3 text-ellipsis line-clamp-1  md:hover:text-rose-600 md:hover:underline'>
 										<Link href={`/course/${slug}/q5`}>{Q5.title}</Link>
 									</h2>
 									<p className='leading-relaxed mb-3 text-ellipsis line-clamp-4 '>

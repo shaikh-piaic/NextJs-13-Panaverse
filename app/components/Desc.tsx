@@ -17,7 +17,7 @@ const Desc = () => {
 						/>
 					</div>
 					<div className='lg:flex-grow lg:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left items-center text-center'>
-						<h1 className=' sm:text-4xl text-3xl mb-4 font-medium text-gray-900 text-justify'>
+						<h1 className=' sm:text-4xl text-3xl mb-4 font-medium  text-justify'>
 							The Program in a Nutshell: Earn While You Learn
 						</h1>
 						<p className='mb-8 leading-relaxed text-base md:text-xl lg:text-2xl text-justify'>
@@ -41,7 +41,7 @@ const Desc = () => {
 						/>
 					</div>
 					<div className='lg:flex-grow lg:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center'>
-						<h1 className=' sm:text-4xl text-3xl mb-4 font-medium text-gray-900 text-justify'>
+						<h1 className=' sm:text-4xl text-3xl mb-4 font-medium  text-justify'>
 							Program of Studies
 						</h1>
 						<p className='mb-8 leading-relaxed text-base md:text-xl lg:text-2xl text-justify'>

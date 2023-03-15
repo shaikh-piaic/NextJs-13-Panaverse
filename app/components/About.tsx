@@ -3,7 +3,7 @@ const About = () => {
 		<>
 			<section className='text-gray-600 body-font'>
 				<div className='container px-5 py-24 mx-auto flex flex-wrap md:px-14 flex-col'>
-					<h2 className='text-xl text-gray-900 font-medium  mb-2 md:text-3xl lg:text-4xl '>
+					<h2 className='text-xl  font-medium  mb-2 md:text-3xl lg:text-4xl '>
 						About Panaverse DAO
 					</h2>
 					<div className='md:w-5/5 '>
