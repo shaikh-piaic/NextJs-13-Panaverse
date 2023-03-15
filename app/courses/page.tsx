@@ -27,7 +27,7 @@ const page = () => {
 				</div>
 			</section>
 			{/* Program */}
-			<section className='text-gray-600 body-font'>
+			<section className='text-black body-font'>
 				<div className='container px-5 py-12 mx-auto flex flex-wrap md:px-14 flex-col'>
 					<h2 className='text-xl  font-medium  mb-2 md:text-3xl lg:text-4xl '>
 						Program of Studies
@@ -46,7 +46,7 @@ const page = () => {
 				</div>
 			</section>
 			{/* Core */}
-			<section className='text-gray-600 body-font'>
+			<section className='text-black body-font'>
 				<div className='container px-5 py-5 mx-auto md:px-14'>
 					<h2 className='text-xl  font-medium  mb-10 md:text-3xl lg:text-4xl '>
 						Core Courses (Common in All Specializations)
@@ -152,7 +152,7 @@ const page = () => {
 				</div>
 			</section>
 			{/* Specialization */}
-			<section className='text-gray-600 body-font'>
+			<section className='text-black body-font'>
 				<div className='container px-5 py-5 mx-auto md:px-14'>
 					<h2 className='text-xl  font-medium  mb-10 md:text-3xl lg:text-4xl '>
 						Specializations

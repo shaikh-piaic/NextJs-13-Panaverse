@@ -37,7 +37,7 @@ const Page = async ({ params }: Props) => {
 					</div>
 				</section>
 				{/* Core */}
-				<section className='text-gray-600 body-font'>
+				<section className='text-black body-font'>
 					<div className='container px-5 py-24 mx-auto md:px-14'>
 						<h2 className='text-xl  font-medium  mb-10 md:text-3xl lg:text-4xl text-center'>
 							Program Structure

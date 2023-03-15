@@ -1,7 +1,7 @@
 const About = () => {
 	return (
 		<>
-			<section className='text-gray-600 body-font'>
+			<section className='text-black body-font'>
 				<div className='container px-5 py-24 mx-auto flex flex-wrap md:px-14 flex-col'>
 					<h2 className='text-xl  font-medium  mb-2 md:text-3xl lg:text-4xl '>
 						About Panaverse DAO

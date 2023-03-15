@@ -30,7 +30,7 @@ const CoursePage = async ({ params }: Props) => {
 		let { title, desc, duration, outline, slug } = coreCourse;
 		return (
 			<>
-				<section className='text-gray-600 body-font'>
+				<section className='text-black body-font'>
 					<div className='container px-5 py-8 mx-auto flex flex-wrap md:px-14 flex-col'>
 						<h6 className='text-base  font-medium  mb-2 md:text-base lg:text-base text-center'>
 							Quarter {slug == "q1" ? "I" : slug == "q2" ? "II" : "III"}
@@ -45,7 +45,7 @@ const CoursePage = async ({ params }: Props) => {
 						</div>
 					</div>
 				</section>
-				<section className='text-gray-600 body-font'>
+				<section className='text-black body-font'>
 					<div className='container px-5 py-8 mx-auto flex flex-wrap md:px-14 flex-col'>
 						<h3 className='text-lg  font-medium  mb-2 underline '>
 							Course Description
@@ -56,7 +56,7 @@ const CoursePage = async ({ params }: Props) => {
 						{/* </div> */}
 					</div>
 				</section>
-				<section className='text-gray-600 body-font '>
+				<section className='text-black body-font '>
 					<div className='container px-5 py-6 mx-auto flex flex-wrap md:px-14 flex-col'>
 						<h3 className='text-lg  font-medium  mb-2 underline '>
 							Course Outline
