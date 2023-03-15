@@ -32,7 +32,7 @@ const Courses = () => {
 									height={400}
 								/>
 								<div className='p-6'>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZATION
 									</h2>
 									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
@@ -58,7 +58,7 @@ const Courses = () => {
 									height={400}
 								/>
 								<div className='p-6'>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZATION
 									</h2>
 									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
@@ -82,7 +82,7 @@ const Courses = () => {
 									height={400}
 								/>
 								<div className='p-6'>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZATION
 									</h2>
 									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
@@ -105,7 +105,7 @@ const Courses = () => {
 									height={400}
 								/>
 								<div className='p-6'>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZATION
 									</h2>
 									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
@@ -134,7 +134,7 @@ const Courses = () => {
 									height={400}
 								/>
 								<div className='p-6'>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZATION
 									</h2>
 									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>
@@ -163,7 +163,7 @@ const Courses = () => {
 									height={400}
 								/>
 								<div className='p-6'>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZATION
 									</h2>
 									<h1 className=' text-base font-medium  mb-3 md:hover:text-rose-600 md:hover:underline'>

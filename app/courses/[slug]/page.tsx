@@ -50,7 +50,7 @@ const Page = async ({ params }: Props) => {
 						<div className='flex flex-wrap -m-4'>
 							<div className='p-4 lg:w-1/3 h-96'>
 								<div className='h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center '>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										CORE
 									</h2>
 									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
@@ -73,7 +73,7 @@ const Page = async ({ params }: Props) => {
 							</div>
 							<div className='p-4 lg:w-1/3 h-96'>
 								<div className='h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center '>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										CORE
 									</h2>
 									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
@@ -101,7 +101,7 @@ const Page = async ({ params }: Props) => {
 							</div>
 							<div className='p-4 lg:w-1/3 h-96'>
 								<div className='h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center '>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										CORE
 									</h2>
 									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
@@ -127,7 +127,7 @@ const Page = async ({ params }: Props) => {
 						<div className='flex flex-wrap -m-4 justify-center'>
 							<div className='p-4 lg:w-1/3 h-96'>
 								<div className='h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center '>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZED
 									</h2>
 									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
@@ -143,7 +143,7 @@ const Page = async ({ params }: Props) => {
 							</div>
 							<div className='p-4 lg:w-1/3 h-96'>
 								<div className='h-full bg-gray-100 bg-opacity-75 px-8 pt-16 pb-24 rounded-lg overflow-hidden text-center '>
-									<h2 className='tracking-widest text-xs  font-medium text-gray-400 mb-1'>
+									<h2 className='tracking-widest text-xs  font-medium text-black mb-1'>
 										SPECIALIZED
 									</h2>
 									<h1 className=' sm:text-2xl text-xl font-semibold  mb-3'>
