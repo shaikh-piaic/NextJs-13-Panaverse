@@ -25,7 +25,7 @@ export async function generateStaticParams() {
 
 const CoursePage = async ({ params }: Props) => {
 	const [coreCourse] = await getCoreCourses(params.core);
-	console.log(coreCourse);
+	// console.log(coreCourse);
 	if (coreCourse) {
 		let { title, desc, duration, outline, slug } = coreCourse;
 		return (

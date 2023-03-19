@@ -8,13 +8,13 @@ import Outcome from "./components/Outcome";
 export default function Home() {
 	return (
 		<>
-			<div className='container'>
-				<Hero />
-				<About />
-				<Desc />
-				<Courses />
-				<Outcome />
-			</div>
+			{/* <div className='container'> */}
+			<Hero />
+			<About />
+			<Desc />
+			<Courses />
+			<Outcome />
+			{/* </div> */}
 		</>
 	);
 }

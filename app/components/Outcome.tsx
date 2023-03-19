@@ -5,16 +5,16 @@ const Outcome = () => {
 		<>
 			<section className='text-black body-font'>
 				<div className='container mx-auto flex px-5 py-20 lg:flex-row md:flex-col flex-col items-center md:px-14'>
-					<div className='lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 order-2'>
+					<div className='lg:max-w-lg lg:w-full md:w-1/2 w-5/6  md:mb-0 order-2'>
 						<Image
 							className='object-cover object-center rounded'
-							alt='Program Outcome'
+							alt='Program in a Nutshell'
 							src={outcome.src}
 							width={720}
 							height={600}
 						/>
 					</div>
-					<div className='lg:flex-grow lg:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left items-center text-center'>
+					<div className='lg:flex-grow lg:w-1/2 lg:pr-24 flex flex-col md:items-start md:text-left items-center text-center h-[700] text-ellipsis line-clamp-[15]'>
 						<h1 className=' sm:text-4xl text-3xl mb-4 font-medium  text-justify'>
 							The Outcome for Participants of the Program
 						</h1>
